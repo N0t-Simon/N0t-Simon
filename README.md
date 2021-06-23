@@ -1,4 +1,4 @@
-Designer of <b>Design System</b> & <b>User Interface</b> @<a href="https://github.com/Decathlon">Decathlon</a><br> 🧑‍💻
+Designer of <b>Design System</b> & <b>User Interface</b> <a href="https://github.com/Decathlon">@Decathlon</a><br> 🧑‍💻
 Ex @Auchan Retail international<br>
 Tech Follower - Apple Fan Boy 🍏 Also wakeboarder 🏄‍♂️ & water sport lover
 
