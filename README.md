@@ -1,4 +1,5 @@
-![1500x500](https://user-images.githubusercontent.com/50582328/177307420-d0dcd78b-8787-4f43-8e36-291834323979.jpeg)
+![google meet background](https://user-images.githubusercontent.com/50582328/177308320-8c823993-3018-402d-aba5-7d285b7ab06e.png)
+
 
 **Design system Designer**<br>
 --
