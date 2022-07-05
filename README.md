@@ -1,6 +1,6 @@
 Designer of <b>Design System</b> & <b>User Interface</b> <a href="https://github.com/Decathlon">@Decathlon</a><br> 🧑‍💻
-Ex @Auchan Retail international<br>
-Tech Follower - Apple Fan Boy 🍏 Also wakeboarder 🏄‍♂️ & water sport lover
+hybrid Design & engineering 👨‍💻 Tech follower 💻 Wakeboard & water sport lover. 
+he/him
 
 <!---
 N0t-Simon/N0t-Simon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
