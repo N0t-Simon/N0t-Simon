@@ -1,4 +1,4 @@
-Designer of <b>Design System</b> & <b>User Interface</b> <a href="https://github.com/Decathlon">@Decathlon</a><br> 🧑‍💻
+Designer of <b>Design System</b> & <b>User Interface</b> <a href="https://github.com/Decathlon">@Decathlon</a><br>
 hybrid Design & engineering 👨‍💻 Tech follower 💻 Wakeboard & water sport lover. 
 he/him
 
